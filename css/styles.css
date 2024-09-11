@@ -115,10 +115,8 @@ a {
 
 /* Hero */
 
-.container {
-  max-width: 1440px;
+.container-hero {
   margin: 0 auto;
-  text-align: center;
 }
 
 .section-hero {
@@ -132,6 +130,8 @@ a {
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
+  max-width: 496px;
+  padding: 48px;
 }
 
 .button-order {
