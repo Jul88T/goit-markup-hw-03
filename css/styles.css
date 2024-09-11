@@ -121,6 +121,8 @@ a {
 
 .section-hero {
   background: #2e2f42;
+  padding-top: 188px;
+  padding-bottom: 188px;
 }
 .hero-title {
   font-family: "Roboto", sans-serif;
@@ -146,6 +148,10 @@ a {
   font-family: inherit;
   margin: 0 auto;
   display: block;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 
 .button:hover,
