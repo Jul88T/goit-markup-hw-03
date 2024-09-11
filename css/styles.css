@@ -29,10 +29,6 @@ a {
   display: block;
 }
 
-.li {
-  margin-right: 0;
-}
-
 /* common */
 
 .container {
@@ -212,10 +208,23 @@ a {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
+.container-markguerrero {
+  padding: 32px 0;
+}
+.container-tomford {
+  padding: 32px 0;
+}
+.container-camilagarcia {
+  padding: 32px 0;
+}
+.container-danielwilson {
+  padding: 32px 0;
+}
 .team-list {
   display: flex;
   gap: 24px;
   margin-right: 24px;
+  margin-right: 0;
 }
 .team-title {
   font-size: 36px;
@@ -233,9 +242,6 @@ a {
   border-radius: 0px 0px 4px 4px;
 }
 
-.container {
-  padding: 32px 0;
-}
 .team-subtitle {
   font-weight: 500;
   font-size: 20px;
