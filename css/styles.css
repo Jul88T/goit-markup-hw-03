@@ -25,10 +25,6 @@ a {
   text-decoration: none;
 }
 
-.img {
-  display: block;
-}
-
 /* common */
 
 .container {
@@ -208,16 +204,7 @@ a {
   background-color: #f4f4fd;
   padding: 120px 0;
 }
-.container-markguerrero {
-  padding: 32px 0;
-}
-.container-tomford {
-  padding: 32px 0;
-}
-.container-camilagarcia {
-  padding: 32px 0;
-}
-.container-danielwilson {
+.container {
   padding: 32px 0;
 }
 .team-list {
