@@ -113,6 +113,14 @@ a {
   color: #404bbf;
 }
 
+/* Hero */
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  text-align: center;
+}
+
 .section-hero {
   background: #2e2f42;
 }
@@ -126,7 +134,7 @@ a {
   color: #fff;
 }
 
-.button {
+.button-order {
   color: #fff;
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
@@ -136,6 +144,8 @@ a {
   letter-spacing: 0.04em;
   cursor: pointer;
   font-family: inherit;
+  margin: 0 auto;
+  display: block;
 }
 
 .button:hover,
